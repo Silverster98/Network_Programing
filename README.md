@@ -1,6 +1,7 @@
 # :star: Network Programming
 
-test test
+> test test
+> 此仓库经由赞大佬开光钦定。欢呼 🙌
 
 This is a repository for Tenkey to upload some codes during the experiment by [SongTian](http://cs.bit.edu.cn/szdw/jsml/fjs/st/index.htm).
 
